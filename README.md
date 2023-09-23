@@ -13,7 +13,7 @@
 - ⭐ Minecraft Configurator
 <br>
 
-## Proyectos *Pros*
+# Proyectos *Pros*
 <table>
 <tr>
 <td width="50%">
@@ -24,8 +24,6 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Crear un espacio interactivo en Minecraft donde jugadores se conectan, juegan y colaboran en un entorno compartido. Personalizar reglas y experiencias de juego para proporcionar diversión y comunidad a los jugadores.</p>                                                           
