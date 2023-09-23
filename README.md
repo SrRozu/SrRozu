@@ -3,14 +3,14 @@
 </div>
 <a href="https://discord.gg/VqtP74juHG"><img src="https://i.imgur.com/4heFhRI.png" title="@SrRozu" /></a>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/SrRozu?style=social)](https://github.com/SrRozu)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/1033970090909110322/widget.png?style=shield)
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
+- ⭐ Github Star 
+- ⭐ Discord Configurator
+- ⭐ Minecraft Configurator
 <br>
 
 ## Proyectos *bombitas*
