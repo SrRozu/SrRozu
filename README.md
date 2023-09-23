@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Rozu</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://discord.gg/VqtP74juHG">Rozu</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
@@ -12,10 +12,6 @@
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+33k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
 ## Proyectos *bombitas*
