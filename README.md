@@ -1,43 +1,15 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://discord.gg/VqtP74juHG">Rozu</a> 👋</h1>
-</div>
-<a href="https://discord.gg/VqtP74juHG"><img src="https://i.imgur.com/4heFhRI.png" title="@SrRozu" /></a>
+<h1 align="center">Hi 👋, I'm Rozu</h1>
+<h3 align="center">A passionate frontend developer from Peru</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/SrRozu?style=social)](https://github.com/SrRozu)
-![Discord Shield](https://discordapp.com/api/guilds/1033970090909110322/widget.png?style=shield)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srrozu&label=Profile%20views&color=0e75b6&style=flat" alt="srrozu" /> </p>
 
-## Sobre mi
+- 🔭 I’m currently working on [HyLegacy](discord.hylegacy.com)
 
-- ⭐ Github Star 
-- ⭐ Discord Configurator
-- ⭐ Minecraft Configurator
-<br>
-
-# Proyectos *Pros*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">HyLegacy</h3>
-<div align="center">
-<a href=""https://discord.gg/TxjjkeSWmF" target="_blank"><img src="https://i.imgur.com/MnQsIyI.png" width="400" alt="HyLegacy"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/discord.hylegacy.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.hylegacy.com" height="30" width="40" /></a>
 </p>
-<p>Crear un espacio interactivo en Minecraft donde jugadores se conectan, juegan y colaboran en un entorno compartido. Personalizar reglas y experiencias de juego para proporcionar diversión y comunidad a los jugadores.</p>                                                           
-</table>                                                                                 
-</div>
-<br>                                                                               
-</div>
-<br>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<a href="https://github.com/SrRozu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SrRozu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrRozu&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
